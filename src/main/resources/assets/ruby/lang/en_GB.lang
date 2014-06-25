@@ -1,0 +1,57 @@
+tile.oreRuby.name=Ruby Ore
+tile.oreTin.name=Tin Ore
+tile.oreCopper.name=Copper Ore
+tile.oreAluminium.name=Aluminium Ore
+tile.RefineryInactive.name=Refinery
+tile.RefineryActive.name=Refinery On
+tile.CopperChest.name=Copper Chest
+tile.blockRuby.name=Ruby Block
+tile.blockCopper.name=Copper Block
+tile.blockTin.name=Tin Block
+tile.blockSteel.name=Steel Block
+tile.IronChest.name=Iron Chest
+tile.blockEnder.name=Ender Block
+
+item.gemRuby.name=Ruby
+item.mixBronze.name=Bronze Blend
+item.mixSteel.name=Iron Carbon Blend
+item.ingotSteel.name=Steel Ingot
+item.ingotAluminium.name=Aluminium Ingot
+item.mixSilicon.name=Silicon Blend
+item.Silicon.name=Silicon
+item.pigIron.name=Pig Iron
+item.ingotTin.name=Tin Ingot
+item.ingotCopper.name=Copper Ingot
+item.ingotBronze.name=Bronze Ingot
+
+item.swordEmerald.name=Emerald Sword
+item.pickaxeEmerald.name=Emerald Pickaxe
+item.axeEmerald.name=Emerald Axe
+item.shovelEmerald.name=Emerald Shovel
+item.hoeEmerald.name=Emerald Hoe
+
+item.swordObsidian.name=Obsidian Sword
+item.pickaxeObsidian.name=Obsidian Pickaxe
+item.axeObsidian.name=Obsidian Axe
+item.shovelObsidian.name=Obsidian Shovel
+item.hoeObsidian.name=Obsidian Hoe
+
+item.swordSteel.name=Steel Sword
+item.pickaxeSteel.name=Steel Pickaxe
+item.axeSteel.name=Steel Axe
+item.shovelSteel.name=Steel Shovel
+item.hoeSteel.name=Steel Hoe
+
+item.swordFlint.name=Flint Sword
+item.pickaxeFlint.name=Flint Pickaxe
+item.axeFlint.name=Flint Axe
+
+item.swordBronze.name=Bronze Sword
+item.pickaxeBronze.name=Bronze Pickaxe
+item.axeBronze.name=Bronze Axe
+item.shovelBronze.name=Bronze Shovel
+item.hoeBronze.name=Bronze Hoe
+
+itemGroup.ruby=Ruby's Mod
+itemGroup.tool=Ruby's Mod Tools
+
